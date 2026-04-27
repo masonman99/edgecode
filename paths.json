@@ -1,8 +1,7 @@
 {
   "mappings": [
     "/content/edgecode/:/",
-     "/content/edgecode/configuration:/.helix/config.json",
-     "/content/edgecode/metadata:/metadata.json"
+    "/content/edgecode/configuration:/.helix/config.json"
   ],
   "includes": [
     "/content/edgecode/"
