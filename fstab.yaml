@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "hhttps://author-p45209-e1223265.adobeaemcloud.com/bin/franklin.delivery/masonman99/edgecode/main"
+    url: "https://author-p45209-e1223265.adobeaemcloud.com/bin/franklin.delivery/masonman99/edgecode/main"
     type: "markup"
     suffix: ".html"
